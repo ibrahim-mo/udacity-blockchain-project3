@@ -8,6 +8,8 @@ For details about the project description and requirements, see [project.md](./p
 
 [0xfd4b279ee46f12a667db24597dd179362ab12fe3](https://rinkeby.etherscan.io/address/0xfd4b279ee46f12a667db24597dd179362ab12fe3)
 
+For the depolyment details, see [deploy2rinkeby.log](./project-6/deploy2rinkeby.log).
+
 ### Libraries used:
 
 * [web3.js 1.4.0](https://cdn.jsdelivr.net/gh/ethereum/web3.js@1.4.0/dist/web3.min.js) - web3 JavaScript implementation.
